@@ -1,0 +1,5 @@
+opencv-python
+schedule
+pywin32
+PyAutoGUI
+PySide2
